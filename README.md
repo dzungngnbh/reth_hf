@@ -1,4 +1,4 @@
-# reth
+# reth - HashFramework Experiemental reth
 
 [![CI status](https://github.com/paradigmxyz/reth/workflows/unit/badge.svg)][gh-ci]
 [![cargo-deny status](https://github.com/paradigmxyz/reth/workflows/deny/badge.svg)][gh-deny]
