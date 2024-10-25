@@ -68,6 +68,7 @@ To set up a new metric in Reth and its Grafana dashboard:
     - Click `Save to file`
 
 9. Update dashboard file:
+
     - Replace the content of the corresponding file in the [dashboards folder](./grafana/dashboards) with the exported
       JSON
 

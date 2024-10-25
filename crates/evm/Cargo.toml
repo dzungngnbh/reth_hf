@@ -39,6 +39,7 @@ parking_lot = { workspace = true, optional = true }
 [dev-dependencies]
 parking_lot.workspace = true
 reth-ethereum-forks.workspace = true
+alloy-consensus.workspace = true
 
 [features]
 default = ["std"]

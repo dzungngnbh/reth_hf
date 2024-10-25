@@ -26,6 +26,7 @@ alloy-chains.workspace = true
 alloy-genesis.workspace = true
 alloy-primitives.workspace = true
 alloy-consensus.workspace = true
+alloy-eips.workspace = true
 
 # op
 op-alloy-rpc-types.workspace = true
